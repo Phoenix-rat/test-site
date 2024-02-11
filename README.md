@@ -1,2 +1,1 @@
-# test-site
-burada bir şeyler test editorum sıkıldıkça
+# Genelde bişiler deniyom sıkıldıkça
